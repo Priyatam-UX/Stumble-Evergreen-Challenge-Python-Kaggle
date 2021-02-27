@@ -3,12 +3,6 @@ python-kaggle-stumble
 
 My solution in Python for the kaggle problem StumbleUpon Evergreen Classification Challenge
 
-This is the second project which I worked on NLP.
-Like the previous one, this has the same story - that I started Kaggle in december end, and that time no competition was running which interested me.
-Hence although this competition had ended but I was deeply interested in doing this and thus did.
-Here's the project link: http://www.kaggle.com/c/stumbleupon
-Also,Since this was one of my first attempts I missed some key techniques back then. But nevertheless it provided decent results, if you put the submission file.
-
 
 Approach
 ---------
