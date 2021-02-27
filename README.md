@@ -14,13 +14,7 @@ Quite a lot of classifiers were tried but we sticked with Logsistic Regression a
 GridSearch was used to search for the best matching parameters as well.
 Surprisingly, SVMs didnt work in this one(all kernels were tried in hope) to that extent and moreover it took plenty of time to train.
 
-Files
--------
-stumble.py - The core file containing the implementation.
 
-stumble-51.csv - This was one of the setting when I got the best rank of 61. This is the submission file prepared from code.
-
-kaggle-51.jpg - The screenshot showing the same (total 625 teams), But crazy variance has slightly different results each time (LSA!)
 
 Libraries used (Dependencies)
 ----------------
